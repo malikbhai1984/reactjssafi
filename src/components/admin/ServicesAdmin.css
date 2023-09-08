@@ -1,0 +1,31 @@
+
+.admin-card{
+
+    margin: 10%;
+    background-color: white;
+    box-shadow: 0 4px 6px rgb(0 0 0 / 30%);
+   border-radius: 30px;
+    padding: 10%;
+}
+
+.input-admin{
+
+    height: 50px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid;
+    margin-bottom: 10px
+}
+
+.add-bttn{
+    padding: 10px;
+    background-color: rgb(43, 13, 177);
+    color: white;
+    border: none;
+    border-radius: 7px;
+}
+
+
+.thead{
+    text-align: center;
+}

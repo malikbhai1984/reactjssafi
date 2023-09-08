@@ -1,0 +1,20 @@
+
+
+.animate{
+    position: relative;
+    transition: linear;
+    animation: mymove 20s infinite;
+}
+
+.animate:hover{
+    animation-play-state: paused 
+}
+
+@keyframes mymove {
+    from{
+        left: 95%;
+    }
+    to{
+        left: -10%;
+    }
+}

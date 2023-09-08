@@ -1,0 +1,28 @@
+.cou-card {
+    padding: 30px;
+    margin: 2%;
+    min-height: 100px;
+    width: 80%;
+    box-shadow: 2px 2px 2px 1px rgba(50 50 50 / 50%);
+    border-radius: 10px;
+}
+
+.service-sides {
+    margin-left: 100px;
+    margin-right: -120px;
+
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.c-title {
+    font-weight: bold;
+       text-transform: capitalize;
+}
+
+.desc {
+    text-align: center;
+}
